@@ -1,0 +1,6 @@
+{
+  "name": "Cancionero San Francisco",
+  "description": "Cancionero litúrgico vertical para celular del Convento San Francisco de Chillán con Programa Oficial Compartido de domingo, letras, acordes y búsqueda por tono sin login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

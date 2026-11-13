@@ -1,0 +1,85 @@
+{
+  "officialCode": "SF1001",
+  "programsByCode": {
+    "SF1001": {
+      "code": "SF1001",
+      "sundayDate": "2026-11-15",
+      "note": "Misa Dominical · Convento San Francisco de Chillán",
+      "slots": {
+        "entrada": {
+          "songId": "1-6",
+          "title": "VIENEN CON ALEGRIA",
+          "tone": "DO",
+          "categoryName": "ENTRADA"
+        },
+        "evangelio": {
+          "songId": "5-5",
+          "title": "TU PALABRA ME DA VIDA",
+          "tone": "DO",
+          "categoryName": "DESP. EVANGELIO Y HOMILÍA"
+        },
+        "ofertorio": {
+          "songId": "6-2",
+          "title": "SABEMOS QUE VENDRAS",
+          "tone": "DO",
+          "categoryName": "OFERTORIO"
+        },
+        "comunion": {
+          "songId": "11-14",
+          "title": "PESCADOR DE HOMBRES",
+          "tone": "DO",
+          "categoryName": "COMUNIÓN"
+        },
+        "final": {
+          "songId": "12-7",
+          "title": "JUNTO A TI MARIA",
+          "tone": "RE",
+          "categoryName": "MARÍA"
+        }
+      },
+      "publishedAt": "2026-11-13T07:58:43.239Z",
+      "version": 1
+    }
+  },
+  "programsByDate": {
+    "2026-11-15": {
+      "code": "SF1001",
+      "sundayDate": "2026-11-15",
+      "note": "Misa Dominical · Convento San Francisco de Chillán",
+      "slots": {
+        "entrada": {
+          "songId": "1-6",
+          "title": "VIENEN CON ALEGRIA",
+          "tone": "DO",
+          "categoryName": "ENTRADA"
+        },
+        "evangelio": {
+          "songId": "5-5",
+          "title": "TU PALABRA ME DA VIDA",
+          "tone": "DO",
+          "categoryName": "DESP. EVANGELIO Y HOMILÍA"
+        },
+        "ofertorio": {
+          "songId": "6-2",
+          "title": "SABEMOS QUE VENDRAS",
+          "tone": "DO",
+          "categoryName": "OFERTORIO"
+        },
+        "comunion": {
+          "songId": "11-14",
+          "title": "PESCADOR DE HOMBRES",
+          "tone": "DO",
+          "categoryName": "COMUNIÓN"
+        },
+        "final": {
+          "songId": "12-7",
+          "title": "JUNTO A TI MARIA",
+          "tone": "RE",
+          "categoryName": "MARÍA"
+        }
+      },
+      "publishedAt": "2026-11-13T07:58:43.239Z",
+      "version": 1
+    }
+  }
+}
